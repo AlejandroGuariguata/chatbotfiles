@@ -17,7 +17,7 @@
         {"tag": "genres",
          "patterns": ["Action", "Drama", "Horror", "Fantasy", "Thriller", "Comedy", "Romance", "Adventure", "action romance", "action comedy","action adventure romance comedy thriller", 
           "drama romance", "crime","crime adventure", "crime thriller", "documentary", "animation"],
-         "responses": ["List some (seperated by spaces) or one genre that you are interested in"],
+         "responses": ["Here are some movies! Enter more genres for more movies or continue talking to me."],
          "context_set": ""
         },
         {"tag": "thanks",
