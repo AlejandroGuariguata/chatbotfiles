@@ -10,7 +10,7 @@
          "context_set": ""
         },
         {"tag": "recommend",
-         "patterns": ["What movie should I watch?", "What should I watch", "what do you reccommend?", "What is a good movie", "Recommend me a movie"],
+         "patterns": ["What movie should I watch?", "What should I watch", "what do you reccommend?", "What is a good movie", "Recommend me a movie","I need a movie","I want to watch a movie"],
          "responses": ["List some or one genre that you are interested in"],
          "context_set": ""
         },
