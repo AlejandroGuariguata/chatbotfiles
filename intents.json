@@ -1,6 +1,6 @@
 {"intents": [
         {"tag": "greeting",
-         "patterns": ["Hi", "How are you", "Hi there", "Hello", "Good day", "Whats up"],
+         "patterns": ["Hi", "How are you", "Hi there", "Hello", "Good day", "Whats up", "hi", "hello"],
          "responses": ["Hello! Welcome to the What2Watch Chatbot, how can I help?", "Welcome, what would you like?", "Hi there, how can I help?"],
          "context_set": ""
         },
